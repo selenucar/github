@@ -7,7 +7,7 @@ public class ClassTwo {
         System.out.println(sum);
 
         int y = 0;
-        
+        int z = 10;
         
         System.out.println("This is remote repo code");
 
